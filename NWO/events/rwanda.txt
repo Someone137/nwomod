@@ -45,6 +45,7 @@ country_event = {
 		government = democracy
 		has_recently_lost_war = yes
 		badboy = 10
+		NOT = { year = 1991 }
 	}
 	
 	mean_time_to_happen = {
